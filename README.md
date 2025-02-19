@@ -8,4 +8,4 @@ compiled build of Benjamin Dobell's [heimdall](https://github.com/Benjamin-Dobel
 
 **Linux:** Available but not yet tested
 
-**Mac OS:** Unavailable
+**Mac OS:** Unavailable (currently WIP)
