@@ -1,9 +1,9 @@
 # heimdall-1.4.2
-compiled build of Benjamin Dobell's heimdall.
+compiled build of Benjamin Dobell's [heimdall](https://github.com/Benjamin-Dobell/Heimdall) and compressed as a .zip file.
 
-# Supported Builds
+## Supported Builds
 **Windows:** Available but not yet tested
 
-**Linux:** Work in progress
+**Linux:** Available but not yet tested
 
-**Mac OS:** Unavailable bcz i dont have a mac yet :/
+**Mac OS:** Unavailable
