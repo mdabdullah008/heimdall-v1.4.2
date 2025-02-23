@@ -6,6 +6,6 @@ compiled build of Benjamin Dobell's [heimdall](https://github.com/Benjamin-Dobel
 ## Supported Builds
 **Windows:** Available but not yet tested
 
-**Linux:** Available but not yet tested
+**Linux:** Available (Test Approved)
 
 **Mac OS:** Unavailable (currently WIP)
