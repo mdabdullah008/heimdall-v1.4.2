@@ -9,3 +9,5 @@ compiled build of Benjamin Dobell's [heimdall](https://github.com/Benjamin-Dobel
 **Linux:** Available (Test Approved)
 
 **Mac OS:** Unavailable (currently WIP)
+
+### • Tested using Samsung Galaxy A3 (2015) [SM-A300F]
